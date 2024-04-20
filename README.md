@@ -1,5 +1,5 @@
 
-# Thixo Email Sender
+#Email Sender
 
 This script sends HTML emails to multiple recipients using Python's `smtplib` library.
 
